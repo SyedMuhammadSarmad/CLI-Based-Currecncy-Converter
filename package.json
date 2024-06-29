@@ -1,0 +1,31 @@
+{
+  "name": "cli-based-currecncy-converter",
+  "version": "1.0.0",
+  "description": "CLI based currency converter using typescript and node.js",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SyedMuhammadSarmad/CLI-Based-Currecncy-Converter.git"
+  },
+  "keywords": [
+    "typescript",
+    "node.js",
+    "javascript"
+  ],
+  "author": "Sarmad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SyedMuhammadSarmad/CLI-Based-Currecncy-Converter/issues"
+  },
+  "homepage": "https://github.com/SyedMuhammadSarmad/CLI-Based-Currecncy-Converter#readme",
+  "dependencies": {
+    "inquirer": "^9.3.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
